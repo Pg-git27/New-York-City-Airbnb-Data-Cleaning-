@@ -11,7 +11,8 @@ https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 ## Key Features
 
 # Data Processing Capabilities
-. Automated Data Loading: Seamlessly loads CSV data with initial exploration and profiling
+. Automated Data Loading: Seamlessly loads CSV data with initial exploration and profiling.
+
 . Comprehensive Data Cleaning:
       - Handles missing values,
       - standardizes text formatting, 
@@ -19,7 +20,9 @@ https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
       - Cleaning Individual columns.
       - Renaming Columns
       - and validates data integrity
+      
 . Duplicate Removal: Ensures data uniqueness and integrity. Deleting redundant columns,  Dropping duplicates.
+
 . Export the data to CSV file.
 
 
