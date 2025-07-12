@@ -1,8 +1,11 @@
 # New-York-City-Airbnb-Data-Cleaning And Analysis
 
-## Project Type - Exploratory Data Analysis (EDA)
-## Contribution - Individual
-## Name - Priyanka Garg
+   Project Type - Exploratory Data Analysis (EDA)
+   
+   Contribution - Individual
+
+   Name - Priyanka Garg
+   
 ---
 
 ## Introduction
@@ -19,9 +22,9 @@ https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 ## Key Features - After the Data Cleaning -
 
 # Data Processing Capabilities
-. Automated Data Loading: Seamlessly loads CSV data with initial exploration and profiling.
+* Automated Data Loading: Seamlessly loads CSV data with initial exploration and profiling.
 
-. Comprehensive Data Cleaning:
+* Comprehensive Data Cleaning:
       - Handles missing values,
       - standardizes text formatting, 
       - Removing the NaN values from the dataset.
@@ -29,9 +32,9 @@ https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
       - Renaming Columns
       - and validates data integrity.
       
-. Duplicate Removal: Ensures data uniqueness and integrity. Deleting redundant columns,  Dropping duplicates.
+* Duplicate Removal: Ensures data uniqueness and integrity. Deleting redundant columns,  Dropping duplicates.
 
-. Export the data to CSV file.
+* Export the data to CSV file.
 
 ---
 
