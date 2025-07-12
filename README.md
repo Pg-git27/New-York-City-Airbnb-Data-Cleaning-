@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
       - Removing the NaN values from the dataset.
       - Cleaning Individual columns.
       - Renaming Columns
-      - and validates data integrity
+      - and validates data integrity.
       
 . Duplicate Removal: Ensures data uniqueness and integrity. Deleting redundant columns,  Dropping duplicates.
 
